@@ -1,7 +1,75 @@
 <div align="center">
 
-# 👋 Hi, I'm Yevhenii
-### Senior Full-Stack & Product Engineer
+<!-- Animated Banner -->
+<svg width="1000" height="230" viewBox="0 0 1000 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="animated-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a">
+        <animate attributeName="stop-color" values="#0f172a; #1e293b; #0f2b38; #0f172a" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#113e47">
+        <animate attributeName="stop-color" values="#113e47; #164e63; #0e453a; #113e47" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="text-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#34d399" />
+      <stop offset="100%" stop-color="#38bdf8" />
+      <animate attributeName="x1" values="0%; 100%; 0%" dur="6s" repeatCount="indefinite" />
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="1000" height="230" fill="url(#animated-bg)" rx="12" />
+
+  <path d="M 0 190 Q 250 160, 500 190 T 1000 190 V 230 H 0 Z" fill="#38bdf8" opacity="0.15">
+    <animate attributeName="d" 
+             values="M 0 190 Q 250 160, 500 190 T 1000 190 V 230 H 0 Z;
+                     M 0 180 Q 250 200, 500 180 T 1000 180 V 230 H 0 Z;
+                     M 0 190 Q 250 160, 500 190 T 1000 190 V 230 H 0 Z" 
+             dur="6s" repeatCount="indefinite" />
+  </path>
+  
+  <path d="M 0 200 Q 250 220, 500 200 T 1000 200 V 230 H 0 Z" fill="#0f172a">
+    <animate attributeName="d" 
+             values="M 0 200 Q 250 220, 500 200 T 1000 200 V 230 H 0 Z;
+                     M 0 205 Q 250 185, 500 205 T 1000 205 V 230 H 0 Z;
+                     M 0 200 Q 250 220, 500 200 T 1000 200 V 230 H 0 Z" 
+             dur="5s" repeatCount="indefinite" />
+  </path>
+
+  <text x="500" y="115" 
+        font-family="system-ui, -apple-system, sans-serif" 
+        font-weight="900" 
+        font-size="48" 
+        fill="url(#text-gradient)" 
+        text-anchor="middle"
+        letter-spacing="4"
+        filter="url(#glow)">
+    FULL STACK DEVELOPER
+  </text>
+
+  <text x="500" y="155" 
+        font-family="system-ui, -apple-system, sans-serif" 
+        font-weight="500" 
+        font-size="18" 
+        fill="#94a3b8" 
+        text-anchor="middle"
+        letter-spacing="2">
+    yevheniitech | Senior Full-Stack &amp; Product Engineer
+    <animate attributeName="opacity" values="0.6; 1; 0.6" dur="3s" repeatCount="indefinite" />
+  </text>
+</svg>
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
