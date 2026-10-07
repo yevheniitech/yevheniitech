@@ -17,6 +17,19 @@
 
 ---
 
+### 👨‍💻 About Me
+
+I am a results-driven **Senior Full-Stack & Product Engineer** with a strong background in building complex web applications, high-load microservices, and mobile solutions. I specialize in taking products from concept to production, focusing on clean architecture, performance optimization, and seamless user experiences.
+
+#### 💡 Practical Experience & Hands-on Expertise:
+* **Full-Stack Architecture:** Hands-on experience designing modular monoliths and microservices using React, Next.js, Node.js, and Express/NestJS with strict TypeScript end-to-end type safety.
+* **Database & ORM Management:** Practical work with PostgreSQL, MySQL, and MongoDB — optimizing complex queries, managing migrations, and leveraging Prisma/TypeORM for scalable data modeling.
+* **AI & Automation Pipelines:** Integrated LLM services (OpenAI, Anthropic APIs) into production workflows, utilizing background queue management (Redis & BullMQ) for asynchronous task handling.
+* **Cross-Platform Mobile:** Developed and deployed production React Native & Expo applications with offline-first synchronization, push notifications, and native performance.
+* **DevOps & Cloud Deployment:** Automated CI/CD pipelines via GitHub Actions, containerized apps using Docker, and managed deployments across AWS and cloud platforms.
+
+---
+
 ### 🛠️ Tech Stack
 
 #### 🎨 Front-End Development
@@ -78,4 +91,23 @@
 ### 🚀 Key Highlights & Impact
 
 * **Fintech SaaS Optimization:** Re-architected Node.js API layers for an enterprise platform (~1k users), dropping server response latency by **35%**.
-* **Mobile Product Launch:** Built and published a cross-platform React Native app from scratch, scaling it past **10,
+* **Mobile Product Launch:** Built and published a cross-platform React Native app from scratch, scaling it past **10,000+** active installs.
+* **AI Pipelines & Async Queues:** Engineered production LLM integrations using Redis BullMQ for async background execution without freezing the UI.
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yevheniitech&show_icons=true&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yevheniitech&layout=compact&theme=dark" />
+
+</div>
+
+---
+
+### 🎓 Education & Honors
+
+* **Master’s Degree with Honors (Cum Laude)** — Lviv Polytechnic National University
+* **Bachelor’s Degree with Honors (Cum Laude)** — Lviv Polytechnic National University
