@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Привіт, я Євгеній | Yevhenii
+# 👋 Hi, I'm Yevhenii
 ### Senior Full-Stack & Product Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -8,14 +8,14 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram)
 
 <p align="center">
-  <b>Розробляю високозавантажені B2B-системи, кросплатформені мобільні додатки та AI-інтеграції для ринків ЄС та США.</b>
+  <b>Building scalable B2B platforms, cross-platform mobile apps, and real-time AI integrations for US & EU markets.</b>
 </p>
 
 </div>
 
 ---
 
-### 💻 Технологічний стек (Tech Stack)
+### 💻 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -34,26 +34,26 @@
 
 ---
 
-### 🚀 Ключові досягнення (Highlights)
+### 🚀 Key Highlights & Impact
 
-* **Fintech Optimization:** Оптимізував API-шар для B2B SaaS-платформи (~1k користувачів), зменшивши затримку запитів (**latency**) на **35%**.
-* **Mobile Product Launch:** Запустив кросплатформений додаток на React Native з нуля, досягнувши понад **10,000+** активних інсталяцій.
-* **AI Pipelines:** Інтегрував асинхронні черги задач (Redis BullMQ) для обробки моделей OpenAI без блокування інтерфейсу.
+* **Fintech SaaS Optimization:** Re-architected Node.js API layers for an enterprise platform (~1k users), dropping server response latency by **35%**.
+* **Mobile Product Launch:** Built and published a cross-platform React Native app from scratch, scaling it past **10,000+** active installs.
+* **AI Pipelines & Async Queues:** Engineered production LLM integrations using Redis BullMQ for async background execution without freezing the UI.
 
 ---
 
-### 📈 GitHub Статистика
+### 📈 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ВАШ_ЮЗЕРНЕЙМ&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_ЮЗЕРНЕЙМ&layout=compact&theme=dark&hide=html,css" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide=html,css" />
 
 </div>
 
 ---
 
-### 🎓 Освіта та відзнаки
+### 🎓 Education & Honors
 
-* **Master’s Degree with Honors (Cum Laude)** — НУ "Львівська політехніка"
-* **Bachelor’s Degree with Honors (Cum Laude)** — НУ "Львівська політехніка"
+* **Master’s Degree with Honors (Cum Laude)** — Lviv Polytechnic National University
+* **Bachelor’s Degree with Honors (Cum Laude)** — Lviv Polytechnic National University
