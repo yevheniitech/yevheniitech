@@ -36,9 +36,9 @@
 
 ### 🚀 Key Highlights & Impact
 
-* **Fintech SaaS Optimization:** Re-architected Node.js API layers for an enterprise platform (~1k users), dropping server response latency by **35%**.
-* **Mobile Product Launch:** Built and published a cross-platform React Native app from scratch, scaling it past **10,000+** active installs.
-* **AI Pipelines & Async Queues:** Engineered production LLM integrations using Redis BullMQ for async background execution without freezing the UI.
+* **Fintech SaaS Optimization:** Re-architected Node.js API layers for an enterprise platform (~1k users), dropping server response latency by **35%**[cite: 3].
+* **Mobile Product Launch:** Built and published a cross-platform React Native app from scratch, scaling it past **10,000+** active installs[cite: 3].
+* **AI Pipelines & Async Queues:** Engineered production LLM integrations using Redis BullMQ for async background execution without freezing the UI[cite: 3].
 
 ---
 
@@ -46,8 +46,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide=html,css" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yevheniitech&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yevheniitech&layout=compact&theme=dark&hide=html,css" />
 
 </div>
 
@@ -55,5 +55,5 @@
 
 ### 🎓 Education & Honors
 
-* **Master’s Degree with Honors (Cum Laude)** — Lviv Polytechnic National University
-* **Bachelor’s Degree with Honors (Cum Laude)** — Lviv Polytechnic National University
+* **Master’s Degree with Honors (Cum Laude)** — Lviv Polytechnic National University[cite: 3]
+* **Bachelor’s Degree with Honors (Cum Laude)** — Lviv Polytechnic National University[cite: 3]
