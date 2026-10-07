@@ -100,3 +100,22 @@ I am a results-driven **Senior Full-Stack & Product Engineer** with a strong bac
 
 * **Master’s Degree with Honors (Cum Laude)** — Lviv Polytechnic National University
 * **Bachelor’s Degree with Honors (Cum Laude)** — Lviv Polytechnic National University
+
+---
+
+### 🧩 How I Work
+
+🟢 **End-to-End Ownership** — Taking full responsibility for product features, from initial architectural design to deployment and live production monitoring[cite: 9].  
+🟢 **Transparent Communication** — Keeping documentation concise, code self-explanatory, and stakeholders aligned on progress and blockers[cite: 9].  
+🟢 **Engineering Mindset & Mentorship** — Fostering clean coding standards, providing constructive code reviews, and helping team members grow[cite: 9].  
+🟢 **Pragmatic Execution** — Knowing when to ship quickly to validate product-market fit and when to pause to build robust, scalable infrastructure[cite: 9].
+
+Outside of software engineering, I am passionate about continuous self-improvement, solving complex architectural puzzles, and exploring emerging technologies[cite: 9]. I apply the same calm, analytical approach to engineering: breaking down large, chaotic problems into small, actionable steps and delivering reliable results[cite: 9].
+
+---
+
+### 💼 Currently Open To
+
+<p align="center">
+  <b>Senior Full-Stack • Lead Frontend / Mobile Engineer • Full-Time Remote • US & EU Product Teams</b>[cite: 9]
+</p>
