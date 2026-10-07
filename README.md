@@ -96,17 +96,6 @@ I am a results-driven **Senior Full-Stack & Product Engineer** with a strong bac
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yevheniitech&show_icons=true&theme=dark" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yevheniitech&layout=compact&theme=dark" />
-
-</div>
-
----
-
 ### 🎓 Education & Honors
 
 * **Master’s Degree with Honors (Cum Laude)** — Lviv Polytechnic National University
